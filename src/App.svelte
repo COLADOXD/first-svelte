@@ -1,4 +1,5 @@
 <script>
+  import Interior from "./Interior.svelte";
   export let nombre;
 
   let momento = "dia";
