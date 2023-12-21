@@ -5,6 +5,7 @@
   let momento = "dia";
 </script>
 
+<Interior />
 <h1>Hola Mundo</h1>
 <p>{momento} {nombre} {[1, "jarjar", "bens"]}</p>
 
