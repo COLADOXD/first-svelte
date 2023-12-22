@@ -3,6 +3,7 @@
   export let nombre;
 
   let momento = "dia";
+  //comment
 </script>
 
 <Interior />
