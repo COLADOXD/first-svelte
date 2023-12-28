@@ -3,6 +3,9 @@
   export let nombre;
 
   let momento = "dia";
+  let objFruit = {
+    name: "apple",
+  };
 </script>
 
 <Interior />
