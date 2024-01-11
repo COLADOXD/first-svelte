@@ -5,6 +5,9 @@
   let momento = "dia";
   let objFruit = {
     name: "apple",
+    store: {
+      fruts: "banana",
+    },
   };
 </script>
 
